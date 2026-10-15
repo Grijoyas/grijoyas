@@ -5131,7 +5131,7 @@ const DEFAULTS: GriProps = {
     heroAccent: "y tradición criolla.",
     heroText:
         "Trabajamos joyas y orfebrería en plata y oro, realizamos reparaciones y atendemos consultas por joyería criolla: mates, bombillas, cuchillas y rebenques con mangos o detalles en plata y oro. Escribinos para consultar por una pieza o un trabajo.",
-    heroImage: "",
+    heroImage: "https://framerusercontent.com/images/xWmGbag4hbhQv0ZcxSVLnvGfpgY.jpg?width=1536&height=2048",
     heroImageAlt: "Joyería y orfebrería de Gri Joyas",
     showHowWeWork: true,
     steps: DEFAULT_STEPS,
