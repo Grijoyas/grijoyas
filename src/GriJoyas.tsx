@@ -2965,7 +2965,7 @@ function Footer(props: {
                 </div>
                 <div className="gri-footer-bottom">
                     <span>
-                        © {new Date().getFullYear()} {props.brand}
+                        © {new Date().getFullYear()} {props.brand} - Desarrollado por <a href="https://wa.me/59894274051" target="_blank" rel="noopener noreferrer">Gonzalo DevTeam</a>
                     </span>
                     <button type="button" onClick={props.onAdmin}>
                         Acceso administración
